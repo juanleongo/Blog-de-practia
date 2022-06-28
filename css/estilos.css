@@ -27,3 +27,7 @@ body{
     border: 1px solid #DDD;
     margin: auto;
 }
+footer{
+    background-color:rgb(18, 59, 240);
+    color:black;
+}
